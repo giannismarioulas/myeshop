@@ -98,4 +98,4 @@ It focuses on simplicity, usability, and brand-consistent visual design.
 
 **Giannis Marioulas**
 Software Developer
-[LinkedIn](https://www.linkedin.com/in/giannismarioulas) | [GitHub](https://github.com/giannismarioulas)
+[LinkedIn](https://www.linkedin.com/in/giannis-marioulas-648b75205/) | [GitHub](https://github.com/giannismarioulas)
