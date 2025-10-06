@@ -1,4 +1,4 @@
-# AiAesthetics.gr
+# # AIAesthetics eShop (nopCommerce Project)
 
 *(English version below / Αγγλική εκδοχή παρακάτω)*
 
