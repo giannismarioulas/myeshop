@@ -1,0 +1,84 @@
+# .NET build artifacts
+
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.user
+*.suo
+*.swp
+*.tmp
+
+# Visual Studio files
+
+.vs/
+*.csproj.user
+*.rsuser
+*.sln.docstates
+*.bak
+
+# NopCommerce specific
+
+App_Data/DataProtectionKeys/
+App_Data/appsettings.json
+App_Data/plugins.json
+App_Data/*.xml
+App_Data/*.db
+App_Data/*.bak
+App_Data/GeoLite2-*.mmdb
+App_Data/Localization/
+App_Data/Logs/
+App_Data/Tenants/
+App_Data/ScheduleTasks/
+App_Data/Temp/
+
+# Node and frontend
+
+node_modules/
+package-lock.json
+
+# Publish folders
+
+/wwwroot/bin/
+/wwwroot/Plugins/bin/
+/wwwroot/Plugins/**/bin/
+/wwwroot/Plugins/**/obj/
+/Presentation/**/bin/
+/Presentation/**/obj/
+/Plugins/**/bin/
+/Plugins/**/obj/
+/Themes/**/bin/
+/Themes/**/obj/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Secrets and configs
+
+*.config
+appsettings*.json
+!appsettings.Development.json.example
+
+# Rider / JetBrains
+
+.idea/
+*.iml
+
+# Backup or temp files
+
+*.zip
+*.7z
+*.rar
+*.gz
+*.tar
+*.bak
+*.old
+*.orig
+*.tmp
