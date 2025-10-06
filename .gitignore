@@ -66,3 +66,9 @@ Presentation/Nop.Web/temp/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Sensitive data
+App_Data/appsettings.json
+App_Data/DataProtectionKeys/
+wwwroot/db_backups/
+
