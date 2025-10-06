@@ -1,0 +1,91 @@
+﻿{
+  "InstalledPluginNames": [
+    "Obsolete field, using only for compatibility"
+  ],
+  "InstalledPlugins": [
+    {
+      "SystemName": "Payments.PayPalCommerce",
+      "Version": "4.80.17"
+    },
+    {
+      "SystemName": "DiscountRequirement.MustBeAssignedToCustomerRole",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "CurrencyExchange.ECB",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Misc.Brevo",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Misc.NopMobileApp",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Misc.OmnibusDirective",
+      "Version": "4.80.4"
+    },
+    {
+      "SystemName": "Misc.Omnisend",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Misc.PowerBI",
+      "Version": "4.80.5"
+    },
+    {
+      "SystemName": "Misc.WebApi.Frontend",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Misc.Zettle",
+      "Version": "4.80.6"
+    },
+    {
+      "SystemName": "Payments.Manual",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Pickup.PickupInStore",
+      "Version": "4.80.5"
+    },
+    {
+      "SystemName": "Search.Lucene",
+      "Version": "4.80.5"
+    },
+    {
+      "SystemName": "Shipping.FixedByWeightByTotal",
+      "Version": "4.80.4"
+    },
+    {
+      "SystemName": "Tax.FixedOrByCountryStateZip",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Widgets.GoogleAnalytics",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Widgets.Swiper",
+      "Version": "4.80.1"
+    },
+    {
+      "SystemName": "Payments.CashOnDelivery",
+      "Version": "4.80.1"
+    },
+    {
+      "SystemName": "Nop.Plugin.Payments.Cardlink",
+      "Version": "1.00"
+    }
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": [
+    {
+      "Item1": "Payments.Cardlink",
+      "Item2": "eaab898f-6d0a-462c-a3e2-5a50091130ea"
+    }
+  ]
+}
